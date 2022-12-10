@@ -31,6 +31,8 @@ where I am able to use my skills to contribute to the overall operation of the t
 * BUSINESS  ANALYST (High Technology Park);
 * Basic knowledge of programming languages(HTML, CSS, JS, SQL);
 
+Languages: Fluent in Russian, English(A2), Polish(B1).
+
 ### Code example
 ***
 ```
